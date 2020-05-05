@@ -1,0 +1,45 @@
+Hello, I am Shrey Rupani from the RefX team in Bangalore and Julien and me are going to talk about the refX project and how to make it better. Our team consists of the two of us, with Jean for support.
+
+--------------------------
+
+In the video we can see is takes over 20 seconds for the booking app to load on Fast 3G. This is unacceptable for a modern, competent web app. As we all are aware, it has been categorically proven that slow page loads lead to customers dropping out of flows. Enter PWAs.
+
+--------------------------
+
+As you can see, from just a few days worth of effort, we've brought down the percieved load time by 10x. This makes RefX from a tortoise to Usain Bolt! And it can get even better!
+
+--------------------------
+
+
+When customers want to access airline services, they are given the choice between the web and the app.
+And they are going to go one way or the other depending on criteria.
+
+The web is an incredible platform. It works on every operating systems. Whenever you go to a website, it's up-to-date, and your experience with that site can be as ephemeral or as permanent as you'd like. Web applications can reach anyone, anywhere, on any device with a single codebase.
+
+Native applications, on the other hand, are known for being incredibly rich and reliable. They're always-present, on home screens, docks, and taskbars. They work regardless of network connection. They launch in their own standalone experience. They can read and write files from the local file system, and even interact with data stored on your device, like contacts and calendar events. In native applications, you can do things like take pictures, see playing songs listed on the home screen, or control song playback while in another app.
+
+Web Apps have incredible reach and native applications feel like part of the device they run on.
+
+---------------------------
+If you think about native apps and web apps in terms of capabilities and reach, native apps represent the best of capabilities whereas web apps represent the best of reach. So where do Progressive Web Apps fit in?
+
+Progressive Web Apps (PWA) are built and enhanced with modern APIs to deliver native-like capabilities, reliability, and installability while reaching anyone, anywhere, on any device with a single codebase.
+
+--------------------------
+
+Purely UX, manifest file for bookmark
+Greatly enhances performance
+Statics loaded by service worker
+Some offline support
+Determine perceived user response time
+
+--------------------------
+
+Installable PWA -> Any device, low size
+Intelligent prompts -> Julien will speak about this
+Snackbar or toast -> Will alert the user that they are not connected to the internet
+Push notifications -> Increase user retention. Get user before they use a different means of travel.
+Maximal offline support -> Till payment or order retrieve example
+Semantic versioning -> Will create update structure and make the PWA robust
+Shared data -> Temporary items added to the cart will show in other channels etc.
+

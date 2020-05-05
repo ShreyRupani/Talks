@@ -1,0 +1,25 @@
+What is the talk about?
+How is it done?
+What are the benefits to the audience?
+Why should the industry do this?
+
+----------------------------------------
+
+It is 2020, and we have more mobile than desktop users around the globe. Yet, we still treat those users as second class citizens of the web. Why is it still difficult to book a flight and register an account in a mobile form today?
+
+Users often decide to use a company or product based on their first experience. And we will never get a second chance to make a first impression. Forms are the first seen and the most basic primary interaction users will have with your websites(and apps). They link people together and let them communicate. They let them comment on articles and explain to the author how they strongly disagree with what they've written. They let people chat directly on a dating app to meet "the one". Whether for forums, product orders, online communities, account creation or online payment, forms are a big part of users' online life.
+
+When we have better forms, we will do better returns, revenues, and retention. This is a talk about some of the techniques that can help us enhance ones forms and help users fill them in, without increasing their cognitive load or breaking their heads. This talk sums up some essential best practices to improve ones mobile forms, including scannability and readability. I will guide us through label and input placement, size and optimization. We will see how to choose the right form elements to reduce interaction costs. Finally, we will learn how to prevent and deal with errors in mobile forms.
+
+---------------------------------------
+
+Problem? Why is it a problem?
+
+How did you fix the problem?
+
+challenges faced?
+
+benefits
+
+Key takeaways for audience
+
