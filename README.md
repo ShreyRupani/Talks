@@ -1,6 +1,6 @@
 # Talks  
 A collection of talks I've given, my learnings from them, and preparatory material for them.  
-The idea for the folder structure as well as the tips on preparation came from Parimala Hariprasad(@PraiHariprasad). I just added the VCS to it.  
+The idea for the folder structure as well as the tips on preparation came from [Parimala Hariprasad](https://twitter.com/PariHariprasad). I just added the VCS to it.  
 
 ## Some Resources  
 1. https://scottberkun.com/category/public-speaking/  
