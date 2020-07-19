@@ -1,0 +1,52 @@
+Naval Ravikant has a famous tweet: "The internet is the best school ever created. The best peers are on the Internet. The best books are on the Internet. The best teachers are on the Internet. The tools for learning are abundant. It’s the desire to learn that’s scarce."
+
+When I was in college I had the opportunity to go at a conference with a bunch of really interesting people, school teachers. There were many talks and giant balloons and much discussion of what the future of education might look like -- which is no small issue because how society raises the next generation of scientists, doctors, and engineers shapes the future of human civilization.
+
+It was an amazing few days and, I'd like to share some of my thoughts on this as someone who's worked as an educator both in and out of schools. So this is how schools have pretty much always looked: a guy in the front who knows all the things and students who don't so the guy tells them. But a teacher explains things at the right pace for maybe *one* student in the room during a lesson. Everyone else is either bored because they already understand the material or lost because they're missing knowledge they should already have. But, at the end of the lesson, regardless of student understanding, the curriculum marches rentlessly on.
+This is known as teaching by curriculum. Imagine you were taking classes for music or karate, you wouldn't progress to the next level till you master the previous one. Because those classes employ teaching by mastery.
+And whether the teachers use a blackboard, whiteboard or smart board and whether students use chalk and tablets, or paper, or tablets (again) this system really isn't any different -- it's just technology doing the same thing in a shiner way.
+
+But the Internet is different and behind the scenes something interesting is happening that hints at the shape of things to come. In a perfect school, each student would have a personal mentor, like Chanakya to Chandragupta. But if your education policy is 'Chanakya for everyone' then there are three big problems with this:
+1. There aren't enough humans on Earth to individually mentor every child, and even if there were 
+2. it would be horrifically expensive and even if neither manpower nor money was a problem, then
+3. not everyone is as good a mentor as Chanakya.
+
+But technology is solving these problems: starting with number 1. For who needs humans when the Internet can teach you all the things? Want to learn calculus: get started on Coursera. Need an class 10 biology course? Go watch this Crash Course one along with hundreds of thousands of other students. The Internet massively multiplies the audience of potential teachers and solves the manpower problem. But isn't cheerleading the Internet the same thing I was complaining about before: new tech doing old things just with more shiny? After all if you were a pre-Internet child, with bookish inclinations, there's *always* been a place to teach you all the things, the library.
+
+And people thought that radio and TV were going to revolutionize education by giving teachers huge audiences, but we still are in classrooms. These are good points but Internet also solves the cost problem in a way that Radio and TV never could. Real shows are expensive to make and even the best of educational TV often gets pushed aside for dumber, more popular stuff that, not coincidently, is also more profitable. This is known as the History Channel Effect.
+
+But the cost to access to the Internet is only going down, as is the cost to make stuff for the Internet. Which is why a guy with some paper and a marker in his bedroom can pull in a million views a month at essentially zero cost and doesn't have to worry about competition from stuff like "Ancient Aliens Season 3".
+
+So the Internet solves problems one and two, but educational videos still aren't personalized to students and that leaves MOOCs still as a libraries of video, not a mentor like Chanakya. But you can build on top of MOOCs and what I see coming is this: Digital Chanakya for everyone. A computer program that mentors students individually, by pulling from a library of videos like YouTube, a program that tests students on what they know and, more importantly, adapts to the way they learn over time by comparing the effectiveness of different videos and different tests to discover scientifically, what works best.
+
+This isn't a fantasy, there are people building parts of this right now (even if Digital Chanakya isn't their explicit goal). And one of these places is The Khan Academy which is more than just Salman Khan's soothing voice. Behind the website is incredibly complicated software testing everything about student learning: the effectiveness of different videos, different tests, and different ways of asking questions. And while it may seem primitive now, technology only gets better, faster. When Digital Chanakya arrives it will be cheaper, less labor intensive and better than human teachers ever could be.
+
+I often hear the argument that Digital Chanakya, or something like it, will free teachers to float around the classroom helping kids works on interesting projects -- and while that might happen in the near-term, I don't think that's the long-term reality. For what happens when Digital Chanakya truly knows students better than the teacher? When, for every topic of human endeavor, it's able to take the best and brightest kids farther down the path of knowledge than their teachers ever could? I doubt that schools will go away. For as parents know all too well they aren't just about learning but are also freeing parents to work in the economy while their wild and feral children are turned into civilized adults -- but schools will be radically different and there will be far fewer teachers working in them doing far less. And while that's not great news for teachers or mentors, it's awesome news for students and society. Right now, if you're a student doing poorly school moves on without you and if you're doing well, school holds you back.
+
+In the future, I see every human using a Digital Chanakya for their whole life, a mentor personalized to them, teaching them exactly what they need to learn when they're best ready for it and when that comes, we'll have both a better educational system and a better society.
+
+
+
+
+Mahesh as Speech Reviewer:
++ Premise of the speech
++ Well structured
++ Gestures were adapts
++ Good vocal clarity
++ Emphasis
++ Business idea
++ Audience attention
++ Comfort level 
+
+- Pacing of speech - Rushing the start
+- Personal anecdotes
+- Transitions
+
+Deepak as Grammarian:
++ Spot on usage of Grammar
++ The curriculum marches on
++ Tied the 1-2-3 very well
++ Wild feral children
++ New tech doing old things
+
+
